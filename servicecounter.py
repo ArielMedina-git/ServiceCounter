@@ -33,6 +33,7 @@ print('''We provide 4 services:
 ''')
 
 services = True
+
 while services:
     try:
         choice = int(input("To select a service, type the number next to that service: "))
